@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Lab</string>
+    <string name="go">Go!</string>
+    <string name="download_error">Download Error</string>
+    <string name="data_error">Invalid Data</string>
+    <string name="Test">test</string>
+    <string name="CovidTitle">US COVID Stats 1 year ago today</string>
+</resources>

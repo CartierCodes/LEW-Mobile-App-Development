@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="director_name">Director Name</string>
+    <string name="viewed_at_theater">Viewed At Theater</string>
+    <string name="save_movie_rating">Save Movie Rating</string>
+    <string name="update">Update</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752301489360",
+    "project_id": "movie-rating-4d54c",
+    "storage_bucket": "movie-rating-4d54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752301489360:android:05da41cf54ba6765f5f2d5",
+        "android_client_info": {
+          "package_name": "edu.lewisu.cs.burzlaff.movieratingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752301489360-rhrmqt99tl3qpal82q1tmmn6ibiacqnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHOUSV8eL4l9fdr8j9bd-jZhqXi5A_TJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752301489360-rhrmqt99tl3qpal82q1tmmn6ibiacqnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

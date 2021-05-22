@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calendar Provider</string>
+    <string name="title">Calendar App</string>
+    <string name="perm_denied">Calendar Access has been denied. To use this app, allow calendar access in Settings.</string>
+
+    <string name="empty">No Calendars Found</string>
+    <string name="empty_events">No Events</string>
+    <string name="select_calendar">Select Calendar</string>
+    <string name="events">Events</string>
+</resources>

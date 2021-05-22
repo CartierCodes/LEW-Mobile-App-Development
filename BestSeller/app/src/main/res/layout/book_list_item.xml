@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <!--This TextView holds the book data for one particular book-->
+    <TextView
+        android:id="@+id/bookDataTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        tools:text="Book Title" />
+
+    <TextView
+        android:id="@+id/bookAuthorTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        tools:text="Book Author" />
+
+    <TextView
+        android:id="@+id/bookLinkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        tools:text="Book Link" />
+
+    <!--This View serves as a visual divider between list items-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dadada"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" />
+
+</LinearLayout>
